@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="bee" type="CD++ Cell DEVS model" description="The Cell DEVS model of a swarm of bees in a 2D plane">
+		<Inputs>
+		</Inputs>
+		<Outputs>
+		</Outputs>
+		<Files>
+			<File name="bee" type="ma" location="./"/>
+            <File name="cellMacros" type="inc" location="./"/>
+            <File name="encoding" type="inc" location="./"/>
+            <File name="README" type="md" location="./"/>
+		</Files>
+	</Model>
+</Models>
